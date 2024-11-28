@@ -1,6 +1,6 @@
 # Supporting material for MuSpAn: A Toolbox for Multiscale Spatial Analysis.
 
-This reponsitory can be downloaded locally for the reproduction of figures 2-6 in the paper: MuSpAn: A Toolbox for Multiscale Spatial Analysis. 
+This reponsitory can be downloaded locally for the reproduction of figures 2-6 in the paper: MuSpAn: A Toolbox for Multiscale Spatial Analysis. To download and install MuSpAn, see www.muspan.co.uk. All analysis in this repositiory have been conducted using MuSpAn V1.0.0.
 
 ---
 Contents:
