@@ -2,6 +2,8 @@
 
 This reponsitory can be downloaded locally for the reproduction of figures 2-6 in the paper: MuSpAn: A Toolbox for Multiscale Spatial Analysis. To download and install the Python Toolbox MuSpAn, see www.muspan.co.uk. All analysis in this repositiory have been conducted using MuSpAn V1.0.0.
 
+These notebooks can also be found at www.docs.muspan.co.uk in our paper examples page.
+
 ---
 Contents:
 - domains_for_figs_2_to_6 : These are the saved muspan domains associated with figures 2 to 6
