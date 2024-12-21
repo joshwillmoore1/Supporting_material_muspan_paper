@@ -8,3 +8,4 @@ These notebooks can also be found in our paper examples pages at www.docs.muspan
 Contents:
 - domains_for_figs_2_to_6 : These are the saved muspan domains associated with figures 2 to 6
 - Notebook tutorials :  A folder of juypter notebooks that reproduce the analysis of figures 2 to 6.
+- SI_scripts : A folder of python scripts and relevent data to reproduce the figures in the SI.
